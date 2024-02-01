@@ -1,4 +1,5 @@
-# mydotfiles
+
+
 
 ## starship
 ### install starship
@@ -15,3 +16,4 @@
 ```bash
     mkdir -p ~/.config && touch ~/.config/starship.toml
 ```
+
