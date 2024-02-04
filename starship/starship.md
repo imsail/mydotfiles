@@ -17,3 +17,8 @@
     mkdir -p ~/.config && touch ~/.config/starship.toml
 ```
 
+### remove starship
+Locate and delete the starship binary
+```
+sh -c 'rm "$(command -v 'starship')"'
+```
