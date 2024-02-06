@@ -13,6 +13,7 @@ $gradle\
 $shell\
 $time\
 $character"""
+command_timeout = 1000
 
 [directory]
 style = "blue"
