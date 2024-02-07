@@ -13,10 +13,11 @@ $gradle\
 $shell\
 $time\
 $character"""
-command_timeout = 1000
+command_timeout = 10000
 
 [directory]
 style = "blue"
+truncate_to_repo = false
 
 [character]
 success_symbol = "[❯](purple)"

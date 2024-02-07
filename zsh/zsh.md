@@ -14,7 +14,7 @@ echo "source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> 
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 ```
 
-1. add following to .zshrc
+2. add following to .zshrc
 ```
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
